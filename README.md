@@ -1,7 +1,7 @@
 # assembly-temp-control
 This is a program for temperature control with arduino ATmega2560 with the use of assembly language
 
-For the temperature reading's we used ADC's (ANALOG-TO-DIGITAL-CONVERTER), we didnt get the chance to use temperature sensors
+For the temperature reading's it was used ADC's (ANALOG-TO-DIGITAL-CONVERTER), we didnt get the chance to use temperature sensors
 
 It was a project for the class Microprocessors
 
