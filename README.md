@@ -1,4 +1,4 @@
-# assembly-temp-control
+# Temperature control with arduino (assembly)
 This is a program for temperature control for a greenhouse with arduino ATmega2560 with the use of assembly language
 
 For the temperature reading's it was used ADC's (ANALOG-TO-DIGITAL-CONVERTER), we didnt get the chance to use temperature sensors
