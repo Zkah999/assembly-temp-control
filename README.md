@@ -9,6 +9,7 @@ In the following files there will be:
 - The problem
 - A file with the flowchart that helps you see the control cases
 - The code that was used for the project at hand
+- I also attached the report but it is in portuguese
 
 
 
