@@ -1,0 +1,21 @@
+Objectives
+For the last assignment, I was given task number 7, in which I had to develop an assembly program on the Arduino ATmega 2560 that would allow control of temperature levels in a greenhouse, as well as perform certain functions in specific cases.
+
+My task involved a greenhouse equipped with an air conditioner and a controlled window:
+• The objective of the assignment is to maintain temperature within predefined limits.
+• The system has a port that defines the maximum values for temperature
+• And two sensors that measure internal temperature and external temperature. The sensors are read by analog-to-digital converters (ADCs).
+Operation
+
+Control cases:
+• If the temperature reaches the maximum value, the window should be opened if the external temperature is lower than the internal temperature.
+• Otherwise, the air conditioner should be turned on to cool the environment.
+• It should be noted that under normal conditions, the air conditioner operates in heating mode.
+
+Window Operation:
+• The operation of the window and the air conditioner is controlled by an output port called PCTRL.
+• The most significant bit of PCTRL controls the opening (low level) or closing (high level) of the greenhouse window.
+
+Air Conditioner Operation:
+• The second least significant bit activates the air conditioner in heating mode (low level).
+• Whereas the least significant bit activates the air conditioner in cooling mode (low level).
