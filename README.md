@@ -7,7 +7,7 @@ It was a project for the class Microprocessors
 
 In the following files there will be:
 - The problem
-- A file with the fluxogram that helps you see the way to solve the problem
+- A file with the flowchart that helps you see the way to solve the problem
 - The code that was used for the project at hand
 
 
